@@ -1,8 +1,8 @@
 [![Anurag's GitHub Header-Dark](https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&&section=header#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub Header-Light](https://capsule-render.vercel.app/api?type=waving&color=f1c232&height=120&section=header#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ec688d&size=35&center=true&vCenter=true&width=1200&lines=HELLO,+MY+NAME+IS+GRÁCIO+MACUÁCUA;I'M+20+YEARS+OLD;I'M+FROM+MOZAMBIQUE;I'M+STUDYING+COMPUTER+SCIENCE+AT+EDUARDO+MONDLANE+UNIVERSITY;WELCOME!+:%29#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1200&lines=HELLO,+MY+NAME+IS+GRÁCIO+MACUÁCUA;I'M+20+YEARS+OLD;I'M+FROM+MOZAMBIQUE;I'M+STUDYING+COMPUTER+SCIENCE+AT+EDUARDO+MONDLANE+UNIVERSITY;WELCOME!+:%29#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ec688d&size=35&center=true&vCenter=true&width=1200&lines=HELLO,+MY+NAME+IS+GRÁCIO+MACUÁCUA;I'M+22+YEARS+OLD;I'M+FROM+MOZAMBIQUE;I'M+STUDYING+COMPUTER+SCIENCE+AT+EDUARDO+MONDLANE+UNIVERSITY;WELCOME!+:%29#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1200&lines=HELLO,+MY+NAME+IS+GRÁCIO+MACUÁCUA;I'M+22+YEARS+OLD;I'M+FROM+MOZAMBIQUE;I'M+STUDYING+COMPUTER+SCIENCE+AT+EDUARDO+MONDLANE+UNIVERSITY;WELCOME!+:%29#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### For contact:
 
